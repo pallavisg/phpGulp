@@ -1,0 +1,8 @@
+{
+    "require": {
+        "sebastian/phpcpd": "*",
+        "theseer/phpdox": "*",
+        "squizlabs/php_codesniffer": "*",
+        "phpunit/phpunit": "*"
+    }
+}
